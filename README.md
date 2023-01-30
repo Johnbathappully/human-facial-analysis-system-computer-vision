@@ -46,5 +46,6 @@ face compression and reconstruction using autoencoders with noise
 
 ![gan](https://user-images.githubusercontent.com/114779060/215584550-a8adc751-80fc-49b4-93c8-894c2cbca12b.png)
 
+# multiple people detection using yolo
 
-
+![people detection using yolo](https://user-images.githubusercontent.com/114779060/215584852-9e5d12cd-41a3-4b8d-ac9d-f92f0c9aadf7.jpg)
