@@ -18,6 +18,11 @@ https://user-images.githubusercontent.com/114779060/215578842-58e2f1f4-0122-4e71
 
 https://user-images.githubusercontent.com/114779060/215579706-de231a31-7fa9-4d4b-ab66-a347c3b4d9cc.mp4
 
-Men and women image classification accuracy with nueral network/transfer learning & finetuning and convolution nueral network
+# Men and women image classification accuracy with nueral network/transfer learning & finetuning and convolution nueral network
 
 ![face  classification](https://user-images.githubusercontent.com/114779060/215580558-389b71d9-af5a-493f-9f77-92344d09fef7.jpg)
+
+# gesture recognition
+
+![gesture recognition](https://user-images.githubusercontent.com/114779060/215580881-f3597d7d-dbd1-489f-8ce7-4bec28847007.png)
+
