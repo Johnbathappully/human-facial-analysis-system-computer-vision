@@ -38,7 +38,13 @@ face compression and reconstruction using autoencoders with noise
 
 ![deep dream](https://user-images.githubusercontent.com/114779060/215583621-5aacba99-3ea9-46d2-b652-e9a10b64cdcf.jpg)
 
-Style transfer
+# Style transfer
 
 ![style transfer](https://user-images.githubusercontent.com/114779060/215583910-da049316-de61-475d-bf91-f8e6849267e4.png)
+
+# face creation from gans
+
+![gan](https://user-images.githubusercontent.com/114779060/215584550-a8adc751-80fc-49b4-93c8-894c2cbca12b.png)
+
+
 
