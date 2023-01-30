@@ -53,3 +53,15 @@ face compression and reconstruction using autoencoders with noise
 # automatic people  detection using yolo
 
 https://user-images.githubusercontent.com/114779060/215585429-5c67629d-0302-475b-bb03-5741d9b9347d.mp4
+
+# image segmentation using fast rcnn
+
+![image segmentation fast rcnn](https://user-images.githubusercontent.com/114779060/215585841-9dc9cbbb-fbfc-4941-9509-2e03d7853d4a.jpg)
+
+#  image segmention from video
+
+
+https://user-images.githubusercontent.com/114779060/215586271-ce7a8db1-09df-4423-a1e3-c3836a9e94f1.mp4
+
+
+
