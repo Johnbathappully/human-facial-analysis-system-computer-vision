@@ -29,3 +29,4 @@ https://user-images.githubusercontent.com/114779060/215579706-de231a31-7fa9-4d4b
 # posture tracking and extraction from video
 
 https://user-images.githubusercontent.com/114779060/215582584-5e7c9430-e94f-49dd-8ef1-383361d36ed5.mp4
+
