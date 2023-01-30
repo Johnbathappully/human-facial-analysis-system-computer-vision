@@ -49,3 +49,7 @@ face compression and reconstruction using autoencoders with noise
 # multiple people detection using yolo
 
 ![people detection using yolo](https://user-images.githubusercontent.com/114779060/215584852-9e5d12cd-41a3-4b8d-ac9d-f92f0c9aadf7.jpg)
+
+# automatic people  detection using yolo
+
+https://user-images.githubusercontent.com/114779060/215585429-5c67629d-0302-475b-bb03-5741d9b9347d.mp4
