@@ -30,3 +30,8 @@ https://user-images.githubusercontent.com/114779060/215579706-de231a31-7fa9-4d4b
 
 https://user-images.githubusercontent.com/114779060/215582584-5e7c9430-e94f-49dd-8ef1-383361d36ed5.mp4
 
+face compression and reconstruction using autoencoders with noise
+
+![autoencoder facial comression](https://user-images.githubusercontent.com/114779060/215583190-33282fba-a5fd-42cc-9fbd-138d3962cd17.jpg)
+
+
