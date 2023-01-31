@@ -1,3 +1,15 @@
+Implemented face detection, face recognition, and face
+tracking from videos and images.
+Classified emotion, gesture recognition from extracted
+content using transfer learning and fine-tuning.
+Accomplished segmentation of faces and applied face
+compression through varitonal autoencoders.
+Experimented with face style transfer, face hallucination(deep
+dream) and creation of new faces from general adversarial
+networks.
+
+
+
 # Body-analysis-system
 
   # face,eye and full body detection using harcascade classifier /histogram of oriented gradients (HOG)/convolutional neural network
