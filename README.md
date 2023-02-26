@@ -18,7 +18,7 @@ networks.
 
 # face and emotion recognition
 
-![face and emotion recognition](https://user-images.githubusercontent.com/114779060/215576354-958a8dc8-1581-4797-9753-d5b380974520.jpg)
+![fin](https://user-images.githubusercontent.com/114779060/221437072-65314f33-bff2-4eda-9703-003c6ce14f7b.jpg)
 
 # emotion extraction from video
 https://user-images.githubusercontent.com/114779060/221436824-d9a4ff61-34fb-4654-b9db-51d5847b129a.mp4
