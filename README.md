@@ -65,7 +65,7 @@ https://user-images.githubusercontent.com/114779060/215582584-5e7c9430-e94f-49dd
 https://user-images.githubusercontent.com/114779060/221926554-63153b88-6038-4f9e-86c9-1f5ab11244ce.mp4
 
 
-# image segmentation using fast rcnn
+# image segmentation using  mask rcnn
 
 ![image segmentation fast rcnn](https://user-images.githubusercontent.com/114779060/215585841-9dc9cbbb-fbfc-4941-9509-2e03d7853d4a.jpg)
 
