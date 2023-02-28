@@ -69,7 +69,7 @@ https://user-images.githubusercontent.com/114779060/221926554-63153b88-6038-4f9e
 
 ![image segmentation fast rcnn](https://user-images.githubusercontent.com/114779060/215585841-9dc9cbbb-fbfc-4941-9509-2e03d7853d4a.jpg)
 
-#  image segmention from video
+# semantic image segmention from video
 
 
 https://user-images.githubusercontent.com/114779060/215586271-ce7a8db1-09df-4423-a1e3-c3836a9e94f1.mp4
